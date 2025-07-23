@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/projects/portFinal.png)
 
-<h4 align="center"><a href="https://.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://curriculo-lemon-mu.vercel.app">Confira o projeto aqui</a></h4>
 
 ---
 
