@@ -30,7 +30,3 @@ O site continuara a receber atualizações de projetos e currículo. Tecnologias
     </td>
   </tr>
 </table>
-
-## 🏆 Licença
-
-The [MIT License](./LICENSE).
